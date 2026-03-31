@@ -1,49 +1,49 @@
-# Hi, I'm Avanti 👋 
-
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Creative+Coder;UI%2FUX+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
----
-
-### 📊 My GitHub Dashboard
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avantikandekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avantikandekar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+# ⚡ Welcome to Avanti's Dev Space ⚡
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avantikandekar&theme=tokyonight&hide_border=true" width="94%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Coding+the+Future;Building+Modern+UI;Interactive+Developer+Profile" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📈 Activity Graph
-![Avanti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avantikandekar&theme=tokyo-night&hide_border=true)
+### 🕹️ Interactive Contribution Snake 
+<!-- This version uses a different server that is more stable for beginners -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avantikandekar&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avantikandekar&theme=tokyo-night&hide_border=true&area=true" width="400" />
+</p>
+
+> **Note:** To get the Snake game moving, you MUST create one specific file. I have put the instructions below the code so it works 101%!
 
 ---
 
-### 🤝 Let's Connect
-<p align="left">
+### 🏆 Programmer Trophies 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Avantikandekar&theme=tokyonight&no-frame=true&margin-w=15&column=4" alt="trophies" />
+</p>
+
+---
+
+### 🛠️ My Digital Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,git,figma,vscode,postman" />
+</p>
+
+---
+
+### 📈 Real-Time Coding Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avantikandekar&layout=compact&theme=tokyonight&hide_border=true" width="350" />
+</p>
+
+---
+
+### 💬 Let's Connect
+<p align="center">
 <a href="https://linkedin.com/in/Avantikandekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/Avantikandekar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+<img src="https://komarev.com/ghpvc/?username=Avantikandekar&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
 </p>
